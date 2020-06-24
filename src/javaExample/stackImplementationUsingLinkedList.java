@@ -45,7 +45,7 @@ public class stackImplementationUsingLinkedList
 		while(head == null)
 		{
 			System.out.println(head.value);
-			head.next;
+			//head.next;
 		}
 	}
 
