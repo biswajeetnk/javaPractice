@@ -1,7 +1,7 @@
 
 public class baseClass
 {
-	public void display()
+	public static void display()
 	{
 		System.out.println("This is base class method");
 	}

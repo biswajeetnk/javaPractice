@@ -1,7 +1,7 @@
 
 public class childClass extends baseClass
 {
-	public  void display()
+	public void display()
 	{
 		System.out.println("This is child class method");
 	}
