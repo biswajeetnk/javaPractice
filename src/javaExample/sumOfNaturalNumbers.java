@@ -13,4 +13,5 @@ public class sumOfNaturalNumbers
 	}
 	System.out.println("Sum of natural numbers : "+sum);
 	}
+	 
 }
