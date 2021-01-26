@@ -4,7 +4,7 @@ package javaExample;
 
 import java.util.Scanner;
 
-public class practice3
+public class swapString
 {
 	public static void main(String[] args)
 	{

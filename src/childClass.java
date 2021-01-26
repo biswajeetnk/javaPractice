@@ -6,8 +6,8 @@ public class childClass extends baseClass
 		System.out.println("This is child class method");
 	}
 	
-	public void childShow()
+	/*public void childShow()
 	{
 		System.out.println("This is child class show");
-	}
+	}*/
 }

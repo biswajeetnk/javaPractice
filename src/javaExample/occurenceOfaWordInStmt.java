@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class practice2
+public class occurenceOfaWordInStmt
 {
 	public static void main(String[] args)
 	{

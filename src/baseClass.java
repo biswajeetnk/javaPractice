@@ -1,15 +1,15 @@
 
 public class baseClass
 {
-	public static void display()
+	public void display()
 	{
 		System.out.println("This is base class method");
 	}
 	
-	public void parentShow()
+	/*public void parentShow()
 	{
 		System.out.println("This is base class show");
-	}
+	}*/
 	
 	
 }

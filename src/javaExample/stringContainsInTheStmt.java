@@ -1,6 +1,6 @@
 package javaExample;
 
-public class practice6
+public class stringContainsInTheStmt
 {
 	public static void main(String[] args) {
 		String str1 = "This is Biswajeet";

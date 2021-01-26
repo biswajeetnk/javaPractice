@@ -12,7 +12,7 @@ package javaExample;
 import java.util.HashMap;
 import java.util.Map;
 
-public class practice1
+public class numberSeries1
 {
 	/*public static void main(String[] args)
 	{

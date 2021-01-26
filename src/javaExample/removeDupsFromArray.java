@@ -6,7 +6,7 @@ package javaExample;
 import java.util.HashMap;
 import java.util.Map;
 
-public class practice4
+public class removeDupsFromArray
 {
 	public static void main(String[] args)
 	{
@@ -24,6 +24,7 @@ public class practice4
 				numbers.put(n, 1);
 			}
 		}
+		System.out.println(numbers.entrySet());
 		System.out.println(numbers.keySet());
 		System.out.println("size : "+numbers.size());
 	}
