@@ -15,6 +15,7 @@ public class enumProgram
 	public static void main(String[] args)
 	{
 		programs pro = programs.JavaScript;
+		
 		System.out.println("Print the program name : "+pro);
 		System.out.println("---------------------------------");
 		
